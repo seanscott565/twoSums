@@ -26,3 +26,6 @@ var twoSum = function(nums, target) {
         
     }
 };
+
+
+//Two sums in leetcode answer
